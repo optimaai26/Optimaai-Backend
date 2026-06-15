@@ -2,6 +2,7 @@
 
 AI-powered business intelligence API for SMEs. Delivers real-time revenue forecasting, churn prediction, growth projections, LLM-generated recommendations, and Business Model Canvas generation — all backed by trained ML models.
 
+Live demo: https://www.optimaai.software/login
 ---
 
 ## Table of Contents
